@@ -1,0 +1,17 @@
+{
+	"name":"duanejeffers/cookiemonster",
+	"description":"CookieMonster package for easy cookie creation and consumption.",
+	"authors":[
+		{
+			"name":"Duane Jeffers",
+			"email":"duane@jeffe.rs",
+			"homepage":"http://duane.jeffe.rs/",
+			"role":"Developer"
+		}
+	],
+	"version":"0.1",
+	"license":"MIT",
+	"autoload":{
+		"files":["src/CookieMonster.php"]
+	}
+}
